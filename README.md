@@ -8,6 +8,7 @@ elevar meu nível de conhecimento.</p>
   <th colspan="5">CONHECIMENTOS ADQUIRIDOS</th>
   <tr>
     <td>HTML</td>
+    <td>Básico</td>
     <td>CSS</td>
     <td>BOOTSTRAP</td>
     <td>PYTHON</td>
