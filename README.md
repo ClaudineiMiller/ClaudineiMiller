@@ -10,15 +10,12 @@ elevar meu nível de conhecimento.</p>
     <td>HTML</td>
     <td>Básico</td>
     <td>CSS</td>
+    <td>Básico</td>
     <td>BOOTSTRAP</td>
+    <td>Básico</td>
     <td>PYTHON</td>
-    <td>TKINTER(GUI)</td>
-  </tr>
-  <tr>
-    <td>Básico</td>
-    <td>Básico</td>
-    <td>Básico</td>
     <td>Moderado</td>
+    <td>TKINTER(GUI)</td>
     <td>Moderado</td>
   </tr>
  </table>
