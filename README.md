@@ -4,18 +4,28 @@ Os projetos apresentados aqui, são apenas para fins didáticos e de estudo, fiq
 analisa-los e até mesmo sugerir melhorias; acredite, será muito bem vindo qualquer sugestão que possa 
 elevar meu nível de conhecimento.</p>
 
-<table>
-  <th colspan="5">CONHECIMENTOS ADQUIRIDOS</th>
-  <tr>
-    <td>HTML</td>
-    <td>Básico</td>
-    <td>CSS</td>
-    <td>Básico</td>
-    <td>BOOTSTRAP</td>
-    <td>Básico</td>
-    <td>PYTHON</td>
-    <td>Moderado</td>
-    <td>TKINTER(GUI)</td>
-    <td>Moderado</td>
-  </tr>
- </table>
+ <table border="1">
+    <tr>
+        <th colspan="2">CONHECIMENTOS ADQUIRIDOS</th>
+    </tr>
+    <tr>
+        <td><b>HTML</b></td>
+        <td>Básico</td>
+    </tr>
+    <tr>
+        <td><b>CSS</b></td>
+        <td>Básico</td>
+    </tr>
+     <tr>
+        <td><b>BOOTSTRAP</b></td>
+        <td>Básico</td>
+    </tr>
+    <tr>
+        <td><b>PYTHON</b></td>
+        <td>Moderado</td>
+    </tr>
+    <tr>
+        <td><b>TKINTER(GUI)</b></td>
+        <td>Moderado</td>
+    </tr>
+</table>
